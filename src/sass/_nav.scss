@@ -1,0 +1,13 @@
+.navbar{
+    padding: 3rem;display: flex;
+}
+.navbar-nav{
+    flex-grow: 2;display: flex;justify-content: flex-end;;
+}
+.navbar-brand {
+    font-size: 3rem;border: 2px solid brown;border-top-left-radius: 50%;border-bottom-right-radius: 50%;
+    transform: rotate(6deg);padding:2rem;letter-spacing: .3rem;text-shadow: 2px 2px red;
+}
+.nav-item{
+    font-size: 2rem;margin-right: 5%;letter-spacing: .3rem;
+}
